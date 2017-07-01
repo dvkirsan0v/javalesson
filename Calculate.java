@@ -5,5 +5,6 @@ public class Calculate {
 			int b = Integer.valueOf(arg[1]);
 			int c = a + b;
 			System.out.println("Sum result: " + c);
-		}
+			}
 }
+
